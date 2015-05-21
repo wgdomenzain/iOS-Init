@@ -1,15 +1,14 @@
 //
-//  ViewController.h
+//  Declarations.m
 //  Dummy Init
 //
 //  Created by Walter Gonzalez Domenzain on 21/05/15.
 //  Copyright (c) 2015 Smartplace. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "Declarations.h"
+NSMutableArray *maSmartplace;
 
-@interface ViewController : UIViewController
-
+@implementation Declarations
 
 @end
-
